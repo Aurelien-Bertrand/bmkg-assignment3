@@ -1,0 +1,94 @@
+@prefix cko: <https://w3id.org/climatekg/ontology/> .
+@prefix country: <https://www.example.org/country/> .
+@prefix dbp: <https://dbpedia.org/ontology/> .
+@prefix ex: <https://www.example.org/> .
+@prefix gas: <https://www.example.org/gas/> .
+@prefix gdp: <https://www.example.org/gdp/> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix schema: <https://schema.org/> .
+@prefix time: <http://www.w3.org/2006/time#> .
+@prefix wiki: <https://www.wikidata.org/wiki/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+country:COUNTRY_IS3 a ex:Country ;
+    rdfs:label "COUNTRY NAME"^^xsd:string ;
+    country:hasISO2Code "ISO2 CODE"^^xsd:string ;
+    country:hasISO3Code "ISO3 CODE"^^xsd:string .
+    country:isNeighbor country:OTHER_COUNTRY .
+
+country:COUNTRY_IS3 a ex:Country ;
+    rdfs:label "COUNTRY NAME"^^xsd:string ;
+    country:hasISO2Code "ISO2 CODE"^^xsd:string ;
+    country:hasISO3Code "ISO3 CODE"^^xsd:string ;
+    country:isNeighbor country:OTHER_COUNTRY .
+
+<https://www.example.org/population/observation/COUNTRY/YEAR> a ex:Observation ;
+    ex:isAbout country:COUNTRY_IS3 ;
+    ex:measured ex:Population ;
+    ex:value "VALUE"^^xsd:positiveInteger ;
+    ex:year "YEAR"^^xsd:gYear .
+
+<https://www.example.org/gdp/observation/COUNTRY/YEAR> a ex:Observation ;
+    ex:isAbout country:COUNTRY ;
+    ex:measured ex:GDP ;
+    ex:value "VALUE"^^xsd:float ;
+    ex:year "YEAR"^^xsd:gYear .
+
+gas:GAS a ex:Gas ;
+    rdfs:label "NAME"^^xsd:string .
+
+<https://www.example.org/emission/observation/COUNTRY/GAS/YEAR> a ex:Observation ;
+    ex:isAbout country:COUNTRY ;
+    ex:measured gas:GAS ;
+    ex:value "VALUE"^^xsd:float ;
+    ex:year "YEAR"^^xsd:gYear .
+
+<https://www.example.org/gdp/estimate/COUNTRY/SCENARIO/VARIABLE/YEAR> a ex:Observation ;
+    gdp:scenario <https://www.example.org/gdp/scenario/SCENARIO> ;
+    gdp:variable <https://www.example.org/gdp/variable/VARIABLE> ;
+    ex:isAbout country:COUNTRY ;
+    ex:measured ex:GDP ;
+    ex:value "VALUE"^^xsd:float ;
+    ex:year "YEAR"^^xsd:gYear .
+
+<https://www.example.org/gdp/scenario/SCENARIO> a ex:Scenario ;
+    rdfs:label "NAME"^^xsd:string .
+
+<https://www.example.org/gdp/variable/VARIABLE> a ex:Variable ;
+    rdfs:label "NAME"^^xsd:string .
+
+ex:Country a rdfs:Class ;
+    owl:sameAs schema:Country .
+ex:GDP a rdfs:Class ;
+    owl:sameAs cko:GDP .
+ex:Gas a rdfs:Class ;
+    owl:sameAs wiki:Q1875774 .
+ex:Observation a rdfs:Class ;
+    owl:sameAs schema:Observation .
+ex:Population a rdfs:Class ;
+    owl:sameAs dbp:Population .
+ex:Scenario a rdfs:Class ;
+    owl:sameAs wiki:Q620920 .
+ex:Variable a rdfs:Class ;
+    owl:sameAs wiki:Q11606433 .
+
+country:hasISO2Code a rdf:Property ;
+    owl:equivalentProperty <https://www.wikidata.org/wiki/Property:P300> .
+country:hasISO3Code a rdf:Property ;
+    owl:equivalentProperty wiki:Q877561 .
+country:isNeighbor a rdf:Property ;
+    owl:equivalentProperty schema:geoTouches .
+gdp:scenario a rdf:Property ;
+    owl:equivalentProperty wiki:Q116879367 .
+gdp:variable a rdf:Property ;
+    owl:equivalentProperty wiki:P1542 .
+ex:isAbout a rdf:Property ;
+    owl:equivalentProperty schema:about .
+ex:measured a rdf:Property ;
+    owl:equivalentProperty schema:measuredProperty .
+ex:value a rdf:Property ;
+    owl:equivalentProperty schema:value .
+ex:year a rdf:Property ;
+    owl:equivalentProperty time:year .
