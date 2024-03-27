@@ -1,0 +1,19 @@
+@prefix ns1: <https://www.example.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+DRUG_URI a ns1:Drug ;
+    rdfs:label DRUG_LABEL^^xsd:string ;
+    ns1:treats DISEASE_URI .
+
+DISEASE_URI a ns1:Disease ;
+    rdfs:label DISEASE_LABEL^^xsd:string ;
+    ns1:hasSymptom SYMPTOM_URI ;
+    ns1:hasCause CAUSE_URI .
+
+CAUSE_URI a ns1:Cause ;
+    rdfs:label CAUSE_LABEL^^xsd:string .
+
+SYMPTOM_URI a ns1:Symptom ;
+    rdfs:label SYMPTOM_LABEL^^xsd:string ;
+    ns1:hasCause CAUSE_URI .
