@@ -1,0 +1,2455 @@
+@prefix ns1: <https://www.example.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix wd: <http://www.wikidata.org/entity/> .
+
+wd:Q105296036 a ns1:Drug ;
+    rdfs:label "crisantaspase" ;
+    ns1:treats wd:Q208414,
+        wd:Q6708277 .
+
+wd:Q105488220 a ns1:Drug ;
+    rdfs:label "hyaluronidase (ovine)" ;
+    ns1:treats wd:Q2051919 .
+
+wd:Q106943333 a ns1:Drug ;
+    rdfs:label "Sotrovimab" ;
+    ns1:treats wd:Q84263196 .
+
+wd:Q107359303 a ns1:Drug ;
+    rdfs:label "OTL-103" ;
+    ns1:treats wd:Q953638 .
+
+wd:Q107391591 a ns1:Drug ;
+    rdfs:label "valoctocogene roxaparvovec" ;
+    ns1:treats wd:Q2092064 .
+
+wd:Q107400382 a ns1:Drug ;
+    rdfs:label "ED-101" ;
+    ns1:treats wd:Q7302398 .
+
+wd:Q107400384 a ns1:Drug ;
+    rdfs:label "ABO-102" ;
+    ns1:treats wd:Q2200359 .
+
+wd:Q107400387 a ns1:Drug ;
+    rdfs:label "ADP-A2M4" ;
+    ns1:treats wd:Q18556815 .
+
+wd:Q107400389 a ns1:Drug ;
+    rdfs:label "ALLO-715" ;
+    ns1:treats wd:Q467635 .
+
+wd:Q107400390 a ns1:Drug ;
+    rdfs:label "AST-OPC1" ;
+    ns1:treats wd:Q1415275 .
+
+wd:Q107400392 a ns1:Drug ;
+    rdfs:label "AT132" ;
+    ns1:treats wd:Q3331454 .
+
+wd:Q107400395 a ns1:Drug ;
+    rdfs:label "CLBS14 (Ologo)" ;
+    ns1:treats wd:Q180762 .
+
+wd:Q107400396 a ns1:Drug ;
+    rdfs:label "CAP-1002" ;
+    ns1:treats wd:Q1648484 .
+
+wd:Q107400398 a ns1:Drug ;
+    rdfs:label "CT053" ;
+    ns1:treats wd:Q467635 .
+
+wd:Q107400400 a ns1:Drug ;
+    rdfs:label "exagamglogene autotemcel" ;
+    ns1:treats wd:Q185034 .
+
+wd:Q107400401 a ns1:Drug ;
+    rdfs:label "RVT-802" ;
+    ns1:treats wd:Q525642 .
+
+wd:Q107400402 a ns1:Drug ;
+    rdfs:label "ECT-001" ;
+    ns1:treats wd:Q18975047 .
+
+wd:Q107400404 a ns1:Drug ;
+    rdfs:label "FCX-007" ;
+    ns1:treats wd:Q7302398 .
+
+wd:Q107400405 a ns1:Drug ;
+    rdfs:label "ilixadencel" ;
+    ns1:treats wd:Q1164529 .
+
+wd:Q107400406 a ns1:Drug ;
+    rdfs:label "lifileucel" ;
+    ns1:treats wd:Q18975855 .
+
+wd:Q107400407 a ns1:Drug ;
+    rdfs:label "MDR-101" ;
+    ns1:treats wd:Q1765748 .
+
+wd:Q107400409 a ns1:Drug ;
+    rdfs:label "MB-107" ;
+    ns1:treats wd:Q1423538 .
+
+wd:Q107400410 a ns1:Drug ;
+    rdfs:label "RP-L102" ;
+    ns1:treats wd:Q845779 .
+
+wd:Q107400412 a ns1:Drug ;
+    rdfs:label "VY-AADC" ;
+    ns1:treats wd:Q11085 .
+
+wd:Q107400414 a ns1:Drug ;
+    rdfs:label "RP-L201" ;
+    ns1:treats wd:Q6534510 .
+
+wd:Q110890586 a ns1:Drug ;
+    rdfs:label "hypericum oil" ;
+    ns1:treats wd:Q170518,
+        wd:Q184753,
+        wd:Q649717,
+        wd:Q939378 .
+
+wd:Q110969665 a ns1:Drug ;
+    rdfs:label "urokinase" ;
+    ns1:treats wd:Q12152,
+        wd:Q220570,
+        wd:Q707774 .
+
+wd:Q113957587 a ns1:Drug ;
+    rdfs:label "antituberculotic" ;
+    ns1:treats wd:Q12204 .
+
+wd:Q11727606 a ns1:Drug ;
+    rdfs:label "Iodipin" ;
+    ns1:treats wd:Q41083 .
+
+wd:Q120786446 a ns1:Drug ;
+    rdfs:label "DA-EPOCH-R" ;
+    ns1:treats wd:Q1138590 .
+
+wd:Q123420884 a ns1:Drug ;
+    rdfs:label "nedosiran" ;
+    ns1:treats wd:Q7243137 .
+
+wd:Q123709344 a ns1:Drug ;
+    rdfs:label "Lovotibeglogene autotemcel" ;
+    ns1:treats wd:Q185034 .
+
+wd:Q13530468 a ns1:Drug ;
+    rdfs:label "ephedra" ;
+    ns1:treats wd:Q114085,
+        wd:Q35869 .
+
+wd:Q15709005 a ns1:Drug ;
+    rdfs:label "botulinum toxin Type B" ;
+    ns1:treats wd:Q906492 .
+
+wd:Q15893399 a ns1:Drug ;
+    rdfs:label "diphtheria antitoxin" ;
+    ns1:treats wd:Q134649 .
+
+wd:Q17148719 a ns1:Drug ;
+    rdfs:label "heptavalent botulism antitoxin" ;
+    ns1:treats wd:Q154865 .
+
+wd:Q17173047 a ns1:Drug ;
+    rdfs:label "antigout agent" ;
+    ns1:treats wd:Q133087 .
+
+wd:Q18476657 a ns1:Drug ;
+    rdfs:label "emtricitabine/rilpivirine/tenofovir" ;
+    ns1:treats wd:Q12199 .
+
+wd:Q1851701 a ns1:Drug ;
+    rdfs:label "dalteparin" ;
+    ns1:treats wd:Q12152,
+        wd:Q18478450,
+        wd:Q2032041,
+        wd:Q220570,
+        wd:Q377978 .
+
+wd:Q185690 a ns1:Drug ;
+    rdfs:label "corticotropin" ;
+    ns1:treats wd:Q18555095,
+        wd:Q8277 .
+
+wd:Q190016 a ns1:Drug ;
+    rdfs:label "heparin" ;
+    ns1:treats wd:Q220570 .
+
+wd:Q19597688 a ns1:Drug ;
+    rdfs:label "ledipasvir/sofosbuvir" ;
+    ns1:treats wd:Q131742,
+        wd:Q147778,
+        wd:Q154869 .
+
+wd:Q19858657 a ns1:Drug ;
+    rdfs:label "ombitasvir/paritaprevir/ritonavir" ;
+    ns1:treats wd:Q154869 .
+
+wd:Q20817212 a ns1:Drug ;
+    rdfs:label "ginseng" ;
+    ns1:treats wd:Q184674,
+        wd:Q9690 .
+
+wd:Q20817252 a ns1:Drug ;
+    rdfs:label "tinzaparin" ;
+    ns1:treats wd:Q220570 .
+
+wd:Q21402338 a ns1:Drug ;
+    rdfs:label "topical ophthalmic corticosteroid" ;
+    ns1:treats wd:Q21173555 .
+
+wd:Q22673321 a ns1:Drug ;
+    rdfs:label "elbasvir/grazoprevir" ;
+    ns1:treats wd:Q154869 .
+
+wd:Q25048068 a ns1:Drug ;
+    rdfs:label "buprenorphine/naloxone" ;
+    ns1:treats wd:Q182413,
+        wd:Q3184856,
+        wd:Q4420149 .
+
+wd:Q251005 a ns1:Drug ;
+    rdfs:label "nystatin" ;
+    ns1:treats wd:Q11581119,
+        wd:Q273510,
+        wd:Q2886899,
+        wd:Q3705799,
+        wd:Q977090 .
+
+wd:Q25110523 a ns1:Drug ;
+    rdfs:label "sofosbuvir/velpatasvir" ;
+    ns1:treats wd:Q154869 .
+
+wd:Q28163645 a ns1:Drug ;
+    rdfs:label "anti-tetanus immunoglobulin" ;
+    ns1:treats wd:Q47790 .
+
+wd:Q28209889 a ns1:Drug ;
+    rdfs:label "emapalumab" ;
+    ns1:treats wd:Q1642170 .
+
+wd:Q2853298 a ns1:Drug ;
+    rdfs:label "antimycobacterial" ;
+    ns1:treats wd:Q4293079 .
+
+wd:Q28859607 a ns1:Drug ;
+    rdfs:label "irbesartan / hydrochlorothiazide" ;
+    ns1:treats wd:Q41861 .
+
+wd:Q3221044 a ns1:Drug ;
+    rdfs:label "pharmaceutical preparation of nitroglycerin" ;
+    ns1:treats wd:Q1128595,
+        wd:Q12152,
+        wd:Q1444550,
+        wd:Q180762,
+        wd:Q19000661,
+        wd:Q190805,
+        wd:Q41861,
+        wd:Q552348,
+        wd:Q56603543 .
+
+wd:Q3579672 a ns1:Drug ;
+    rdfs:label "antiparkinson" ;
+    ns1:treats wd:Q11085 .
+
+wd:Q3595652 a ns1:Drug ;
+    rdfs:label "gripe water" ;
+    ns1:treats wd:Q1370346 .
+
+wd:Q39048038 a ns1:Drug ;
+    rdfs:label "glecaprevir/pibrentasvir" ;
+    ns1:treats wd:Q154869 .
+
+wd:Q39048381 a ns1:Drug ;
+    rdfs:label "fremanezumab" ;
+    ns1:treats wd:Q133823,
+        wd:Q18553762,
+        wd:Q3724157 .
+
+wd:Q40441442 a ns1:Drug ;
+    rdfs:label "patisiran" ;
+    ns1:treats wd:Q816798 .
+
+wd:Q4067112 a ns1:Drug ;
+    rdfs:label "rabies immunoglobulin" ;
+    ns1:treats wd:Q39222 .
+
+wd:Q4095199 a ns1:Drug ;
+    rdfs:label "botulinum toxin type A" ;
+    ns1:treats wd:Q133823,
+        wd:Q18558101,
+        wd:Q210427,
+        wd:Q2339038,
+        wd:Q304497,
+        wd:Q3724157,
+        wd:Q3993706,
+        wd:Q55780592,
+        wd:Q883863,
+        wd:Q906492,
+        wd:Q949302 .
+
+wd:Q410441 a ns1:Drug ;
+    rdfs:label "modafinil" ;
+    ns1:treats wd:Q181923,
+        wd:Q189561,
+        wd:Q751641,
+        wd:Q8277,
+        wd:Q9690 .
+
+wd:Q415178 a ns1:Drug ;
+    rdfs:label "ivermectin" ;
+    ns1:treats wd:Q1137321,
+        wd:Q1343674,
+        wd:Q167178,
+        wd:Q16775468,
+        wd:Q2264130,
+        wd:Q2360849,
+        wd:Q4280605,
+        wd:Q815753,
+        wd:Q831530,
+        wd:Q842428 .
+
+wd:Q415571 a ns1:Drug ;
+    rdfs:label "bleomycin" ;
+    ns1:treats wd:Q12284921,
+        wd:Q180614,
+        wd:Q18557991,
+        wd:Q18975788,
+        wd:Q324464,
+        wd:Q681817 .
+
+wd:Q415909 a ns1:Drug ;
+    rdfs:label "capreomycin" ;
+    ns1:treats wd:Q12204 .
+
+wd:Q416545 a ns1:Drug ;
+    rdfs:label "asenapine" ;
+    ns1:treats wd:Q170082,
+        wd:Q834047 .
+
+wd:Q417317 a ns1:Drug ;
+    rdfs:label "insulin glargine" ;
+    ns1:treats wd:Q124407,
+        wd:Q271993,
+        wd:Q32147145 .
+
+wd:Q419079 a ns1:Drug ;
+    rdfs:label "nabilone" ;
+    ns1:treats wd:Q127076 .
+
+wd:Q419375 a ns1:Drug ;
+    rdfs:label "selenium disulfide" ;
+    ns1:treats wd:Q18555302,
+        wd:Q448310,
+        wd:Q926462 .
+
+wd:Q420885 a ns1:Drug ;
+    rdfs:label "tranylcypromine" ;
+    ns1:treats wd:Q19000444,
+        wd:Q202387 .
+
+wd:Q421951 a ns1:Drug ;
+    rdfs:label "kanamycin (extract)" ;
+    ns1:treats wd:Q18554341,
+        wd:Q19597369,
+        wd:Q2622199 .
+
+wd:Q422482 a ns1:Drug ;
+    rdfs:label "gentamicin" ;
+    ns1:treats wd:Q183134,
+        wd:Q19597369,
+        wd:Q217519,
+        wd:Q221668,
+        wd:Q2450598,
+        wd:Q2622199,
+        wd:Q34879,
+        wd:Q6029216,
+        wd:Q7255052 .
+
+wd:Q4747074 a ns1:Drug ;
+    rdfs:label "amlodipine/benazepril" ;
+    ns1:treats wd:Q41861 .
+
+wd:Q4747075 a ns1:Drug ;
+    rdfs:label "amlodipine/valsartan" ;
+    ns1:treats wd:Q41861 .
+
+wd:Q4775140 a ns1:Drug ;
+    rdfs:label "antipsoriatic" ;
+    ns1:treats wd:Q179945 .
+
+wd:Q48564239 a ns1:Drug ;
+    rdfs:label "acetaminophen/tramadol" ;
+    ns1:treats wd:Q540571 .
+
+wd:Q48566653 a ns1:Drug ;
+    rdfs:label "albuterol / ipratropium" ;
+    ns1:treats wd:Q12192 .
+
+wd:Q48566655 a ns1:Drug ;
+    rdfs:label "enalapril / hydrochlorothiazide" ;
+    ns1:treats wd:Q41861 .
+
+wd:Q48566657 a ns1:Drug ;
+    rdfs:label "hydrochlorothiazide / triamterene" ;
+    ns1:treats wd:Q41861 .
+
+wd:Q48566660 a ns1:Drug ;
+    rdfs:label "epinephrine / lidocaine" ;
+    ns1:treats wd:Q1129007,
+        wd:Q56002,
+        wd:Q769815 .
+
+wd:Q48566693 a ns1:Drug ;
+    rdfs:label "hydrochlorothiazide / losartan" ;
+    ns1:treats wd:Q41861 .
+
+wd:Q48566694 a ns1:Drug ;
+    rdfs:label "hydrochlorothiazide / valsartan" ;
+    ns1:treats wd:Q41861 .
+
+wd:Q48566696 a ns1:Drug ;
+    rdfs:label "hydrochlorothiazide / spironolactone" ;
+    ns1:treats wd:Q19000661,
+        wd:Q41861,
+        wd:Q79928 .
+
+wd:Q48566700 a ns1:Drug ;
+    rdfs:label "Hydrochlorothiazide / Lisinopril" ;
+    ns1:treats wd:Q1129007,
+        wd:Q19000661,
+        wd:Q190805,
+        wd:Q41861,
+        wd:Q570197 .
+
+wd:Q48566705 a ns1:Drug ;
+    rdfs:label "ezetimibe / simvastatin" ;
+    ns1:treats wd:Q1827605,
+        wd:Q18558122,
+        wd:Q266018,
+        wd:Q55785266,
+        wd:Q593958 .
+
+wd:Q48566757 a ns1:Drug ;
+    rdfs:label "bisoprolol / hydrochlorothiazide" ;
+    ns1:treats wd:Q190805,
+        wd:Q266018,
+        wd:Q41861,
+        wd:Q815819 .
+
+wd:Q48566767 a ns1:Drug ;
+    rdfs:label "azelastine / fluticasone" ;
+    ns1:treats wd:Q114085,
+        wd:Q183344,
+        wd:Q18554536,
+        wd:Q3740609,
+        wd:Q471521 .
+
+wd:Q48566771 a ns1:Drug ;
+    rdfs:label "candesartan / hydrochlorothiazide" ;
+    ns1:treats wd:Q41861 .
+
+wd:Q48566776 a ns1:Drug ;
+    rdfs:label "ethinyl estradiol / norethindrone" ;
+    ns1:treats wd:Q205764 .
+
+wd:Q48566802 a ns1:Drug ;
+    rdfs:label "amphetamine aspartate / amphetamine sulfate / dextroamphetamine saccharate / dextroamphetamine sulfate" ;
+    ns1:treats wd:Q189561 .
+
+wd:Q48566803 a ns1:Drug ;
+    rdfs:label "acetaminophen / oxycodone" ;
+    ns1:treats wd:Q540571 .
+
+wd:Q48566808 a ns1:Drug ;
+    rdfs:label "amlodipine / atorvastatin" ;
+    ns1:treats wd:Q1827605,
+        wd:Q18558122,
+        wd:Q190805,
+        wd:Q41861,
+        wd:Q55785266 .
+
+wd:Q48566821 a ns1:Drug ;
+    rdfs:label "sulfamethoxazole / trimethoprim" ;
+    ns1:treats wd:Q12192,
+        wd:Q183344,
+        wd:Q1856914,
+        wd:Q221668,
+        wd:Q246084,
+        wd:Q34879,
+        wd:Q79928,
+        wd:Q876887 .
+
+wd:Q4890968 a ns1:Drug ;
+    rdfs:label "beractant" ;
+    ns1:treats wd:Q344873 .
+
+wd:Q48970976 a ns1:Drug ;
+    rdfs:label "vestronidase alfa" ;
+    ns1:treats wd:Q1750471 .
+
+wd:Q50265665 a ns1:Drug ;
+    rdfs:label "insulin" ;
+    ns1:treats wd:Q124407,
+        wd:Q32147145 .
+
+wd:Q5037862 a ns1:Drug ;
+    rdfs:label "levodopa/carbidopa" ;
+    ns1:treats wd:Q11085,
+        wd:Q1531991 .
+
+wd:Q5208349 a ns1:Drug ;
+    rdfs:label "Daflon" ;
+    ns1:treats wd:Q201180,
+        wd:Q9008818 .
+
+wd:Q5299119 a ns1:Drug ;
+    rdfs:label "dorzolamide/timolol" ;
+    ns1:treats wd:Q159701,
+        wd:Q9294051 .
+
+wd:Q574831 a ns1:Drug ;
+    rdfs:label "anti-anemic" ;
+    ns1:treats wd:Q5445 .
+
+wd:Q5787021 a ns1:Drug ;
+    rdfs:label "artificial saliva" ;
+    ns1:treats wd:Q1162276 .
+
+wd:Q60775749 a ns1:Drug ;
+    rdfs:label "glucose-elevating agent" ;
+    ns1:treats wd:Q202758 .
+
+wd:Q6457467 a ns1:Drug ;
+    rdfs:label "Sacubitril/valsartan" ;
+    ns1:treats wd:Q19000661,
+        wd:Q190805,
+        wd:Q41861,
+        wd:Q847583 .
+
+wd:Q6482030 a ns1:Drug ;
+    rdfs:label "lamivudine/zidovudine" ;
+    ns1:treats wd:Q12199 .
+
+wd:Q6527835 a ns1:Drug ;
+    rdfs:label "leprostatic agent" ;
+    ns1:treats wd:Q36956 .
+
+wd:Q7239695 a ns1:Drug ;
+    rdfs:label "prednisolone/promethazine" ;
+    ns1:treats wd:Q68854 .
+
+wd:Q7263592 a ns1:Drug ;
+    rdfs:label "pyridoxine/doxylamine" ;
+    ns1:treats wd:Q1068134,
+        wd:Q127076,
+        wd:Q186889 .
+
+wd:Q7522394 a ns1:Drug ;
+    rdfs:label "sinecatechins" ;
+    ns1:treats wd:Q208726 .
+
+wd:Q7553318 a ns1:Drug ;
+    rdfs:label "sodium ferric gluconate complex" ;
+    ns1:treats wd:Q5445,
+        wd:Q954674 .
+
+wd:Q7597226 a ns1:Drug ;
+    rdfs:label "carbidopa / levodopa / entacapone" ;
+    ns1:treats wd:Q11085 .
+
+wd:Q7679524 a ns1:Drug ;
+    rdfs:label "talimogene laherparepvec" ;
+    ns1:treats wd:Q180614 .
+
+wd:Q7697766 a ns1:Drug ;
+    rdfs:label "telmisartan/hydrochlorothiazide" ;
+    ns1:treats wd:Q41861 .
+
+wd:Q7700570 a ns1:Drug ;
+    rdfs:label "atenolol/chlorthalidone" ;
+    ns1:treats wd:Q189331,
+        wd:Q190805,
+        wd:Q41861,
+        wd:Q815819 .
+
+wd:Q78151521 a ns1:Drug ;
+    rdfs:label "follitropin beta" ;
+    ns1:treats wd:Q179399 .
+
+wd:Q84593887 a ns1:Drug ;
+    rdfs:label "musculoskeletal drugs" ;
+    ns1:treats wd:Q4116663 .
+
+wd:Q85587525 a ns1:Drug ;
+    rdfs:label "antivaricose agent" ;
+    ns1:treats wd:Q201180 .
+
+wd:Q85620089 a ns1:Drug ;
+    rdfs:label "prolactine inhibitors" ;
+    ns1:treats wd:Q1433936 .
+
+wd:Q857162 a ns1:Drug ;
+    rdfs:label "cajeput oil" ;
+    ns1:treats wd:Q183425 .
+
+wd:Q863389 a ns1:Drug ;
+    rdfs:label "budesonide/formoterol" ;
+    ns1:treats wd:Q12192,
+        wd:Q1477,
+        wd:Q2058941,
+        wd:Q3286546,
+        wd:Q3392853 .
+
+wd:Q102187500 a ns1:Symptom ;
+    rdfs:label "enlargement of lymph nodes" .
+
+wd:Q1035226 a ns1:Symptom ;
+    rdfs:label "Caput medusae" .
+
+wd:Q1036662 a ns1:Symptom ;
+    rdfs:label "hypokinesia" .
+
+wd:Q1058608 a ns1:Cause ;
+    rdfs:label "primary sclerosing cholangitis" .
+
+wd:Q1068134 a ns1:Disease ;
+    rdfs:label "morning sickness" .
+
+wd:Q10686316 a ns1:Symptom ;
+    rdfs:label "vertigo" .
+
+wd:Q10748967 a ns1:Cause ;
+    rdfs:label "Mycobacterium lepromatosis" .
+
+wd:Q10874 a ns1:Symptom ;
+    rdfs:label "blindness" .
+
+wd:Q1088113 a ns1:Symptom ;
+    rdfs:label "chronic pain" .
+
+wd:Q1097541 a ns1:Symptom ;
+    rdfs:label "toe walking" .
+
+wd:Q1123260 a ns1:Symptom ;
+    rdfs:label "palpitation" .
+
+wd:Q1124286 a ns1:Symptom ;
+    rdfs:label "polyuria" .
+
+wd:Q1128595 a ns1:Disease ;
+    rdfs:label "pulmonary hypertension" .
+
+wd:Q1137321 a ns1:Disease ;
+    rdfs:label "onchocerciasis" ;
+    ns1:hasCause wd:Q137224 ;
+    ns1:hasSymptom wd:Q10874,
+        wd:Q1464121,
+        wd:Q3269466,
+        wd:Q3705665,
+        wd:Q582484,
+        wd:Q653197 .
+
+wd:Q1138590 a ns1:Disease ;
+    rdfs:label "non-Hodgkin lymphoma" .
+
+wd:Q11391 a ns1:Cause ;
+    rdfs:label "ultraviolet radiation" .
+
+wd:Q1154414 a ns1:Cause ;
+    rdfs:label "Trichuris trichiura" .
+
+wd:Q11581119 a ns1:Disease ;
+    rdfs:label "cutaneous candidiasis" .
+
+wd:Q115990237 a ns1:Cause ;
+    rdfs:label "traumatic experience" .
+
+wd:Q1164529 a ns1:Disease ;
+    rdfs:label "renal cell carcinoma" .
+
+wd:Q117060 a ns1:Symptom ;
+    rdfs:label "spasticity" .
+
+wd:Q117121 a ns1:Cause ;
+    rdfs:label "Wilson disease" .
+
+wd:Q1172159 a ns1:Symptom ;
+    rdfs:label "pimple" .
+
+wd:Q11820606 a ns1:Symptom ;
+    rdfs:label "eye irritation" .
+
+wd:Q12078 a ns1:Symptom ;
+    rdfs:label "cancer" .
+
+wd:Q121041 a ns1:Cause ;
+    rdfs:label "appendicitis" .
+
+wd:Q12140 a ns1:Cause ;
+    rdfs:label "medication" .
+
+wd:Q12153824 a ns1:Symptom ;
+    rdfs:label "tear secretion" .
+
+wd:Q12167 a ns1:Cause ;
+    rdfs:label "malnutrition" .
+
+wd:Q12206 a ns1:Cause ;
+    rdfs:label "diabetes" .
+
+wd:Q12284921 a ns1:Disease ;
+    rdfs:label "lymphosarcoma" .
+
+wd:Q123414 a ns1:Cause ;
+    rdfs:label "stress" .
+
+wd:Q124604 a ns1:Symptom ;
+    rdfs:label "portal hypertension" .
+
+wd:Q1269399 a ns1:Symptom ;
+    rdfs:label "dysuria" .
+
+wd:Q1282114 a ns1:Symptom ;
+    rdfs:label "speech disorder" .
+
+wd:Q130971 a ns1:Cause ;
+    rdfs:label "Mycobacterium tuberculosis" .
+
+wd:Q131143 a ns1:Cause ;
+    rdfs:label "Pseudomonas" .
+
+wd:Q131268 a ns1:Cause ;
+    rdfs:label "Clostridium botulinum" .
+
+wd:Q131572 a ns1:Cause ;
+    rdfs:label "refugee" .
+
+wd:Q131649 a ns1:Cause ;
+    rdfs:label "Corynebacterium diphtheriae" .
+
+wd:Q131755 a ns1:Cause ;
+    rdfs:label "bipolar disorder" .
+
+wd:Q1324592 a ns1:Symptom ;
+    rdfs:label "laryngospasm" .
+
+wd:Q133087 a ns1:Disease ;
+    rdfs:label "gout" ;
+    ns1:hasSymptom wd:Q109186,
+        wd:Q1166142,
+        wd:Q1499629,
+        wd:Q683498 .
+
+wd:Q1339137 a ns1:Cause ;
+    rdfs:label "psychological abuse" .
+
+wd:Q1343674 a ns1:Disease ;
+    rdfs:label "lice infestation" .
+
+wd:Q134649 a ns1:Disease ;
+    rdfs:label "diphtheria" ;
+    ns1:hasCause wd:Q131649 ;
+    ns1:hasSymptom wd:Q109186,
+        wd:Q1292082,
+        wd:Q1495301,
+        wd:Q181754,
+        wd:Q186470,
+        wd:Q21513506,
+        wd:Q38933,
+        wd:Q945238 .
+
+wd:Q1364801 a ns1:Cause ;
+    rdfs:label "sleep deprivation" .
+
+wd:Q1366695 a ns1:Symptom ;
+    rdfs:label "urinary retention" .
+
+wd:Q1370346 a ns1:Disease ;
+    rdfs:label "baby colic" .
+
+wd:Q137224 a ns1:Cause ;
+    rdfs:label "Onchocerca volvulus" .
+
+wd:Q1413614 a ns1:Symptom ;
+    rdfs:label "tympanites" .
+
+wd:Q141440 a ns1:Symptom ;
+    rdfs:label "brain abscess" .
+
+wd:Q1415275 a ns1:Disease ;
+    rdfs:label "spinal cord injury" ;
+    ns1:hasSymptom wd:Q107231,
+        wd:Q1088113,
+        wd:Q1641556 .
+
+wd:Q1423167 a ns1:Symptom ;
+    rdfs:label "phlebitis" .
+
+wd:Q1423538 a ns1:Disease ;
+    rdfs:label "gamma chain deficiency" .
+
+wd:Q1433936 a ns1:Disease ;
+    rdfs:label "hyperprolactinemia" .
+
+wd:Q1444550 a ns1:Disease ;
+    rdfs:label "arteriosclerotic heart disease" ;
+    ns1:hasSymptom wd:Q180762,
+        wd:Q186889,
+        wd:Q188008,
+        wd:Q3567802,
+        wd:Q57823162,
+        wd:Q9690 .
+
+wd:Q1464121 a ns1:Symptom ;
+    rdfs:label "lichenification" .
+
+wd:Q1477 a ns1:Disease ;
+    rdfs:label "ulcerative colitis" .
+
+wd:Q1480291 a ns1:Symptom ;
+    rdfs:label "contracture" .
+
+wd:Q1485 a ns1:Cause ;
+    rdfs:label "systemic lupus erythematosus" .
+
+wd:Q1495301 a ns1:Symptom ;
+    rdfs:label "pseudomembrane" .
+
+wd:Q1499629 a ns1:Symptom ;
+    rdfs:label "joint effusion" .
+
+wd:Q1502312 a ns1:Symptom ;
+    rdfs:label "polyneuropathy" .
+
+wd:Q1529977 a ns1:Symptom ;
+    rdfs:label "muscle rigidity" .
+
+wd:Q1531991 a ns1:Disease ;
+    rdfs:label "parkinsonian syndrome" ;
+    ns1:hasCause wd:Q11085 .
+
+wd:Q153875 a ns1:Cause ;
+    rdfs:label "Yersinia pestis" .
+
+wd:Q154865 a ns1:Disease ;
+    rdfs:label "botulism" ;
+    ns1:hasCause wd:Q131268,
+        wd:Q208413 ;
+    ns1:hasSymptom wd:Q1128283,
+        wd:Q1162276,
+        wd:Q1366695,
+        wd:Q1413614,
+        wd:Q178436,
+        wd:Q21006662,
+        wd:Q225957,
+        wd:Q270421,
+        wd:Q4930803,
+        wd:Q620639,
+        wd:Q622427,
+        wd:Q775940 .
+
+wd:Q1549918 a ns1:Symptom ;
+    rdfs:label "impulsivity" .
+
+wd:Q1557686 a ns1:Symptom ;
+    rdfs:label "muscle atrophy" .
+
+wd:Q155891 a ns1:Cause ;
+    rdfs:label "Mycobacterium leprae" .
+
+wd:Q156007 a ns1:Cause ;
+    rdfs:label "Treponema pallidum" .
+
+wd:Q15636229 a ns1:Cause ;
+    rdfs:label "surgical procedure" .
+
+wd:Q15637420 a ns1:Symptom ;
+    rdfs:label "lethargy" .
+
+wd:Q15787 a ns1:Cause ;
+    rdfs:label "HIV" .
+
+wd:Q159701 a ns1:Disease ;
+    rdfs:label "glaucoma" .
+
+wd:Q1607636 a ns1:Cause ;
+    rdfs:label "hepatitis delta virus" .
+
+wd:Q160796 a ns1:Symptom ;
+    rdfs:label "Delirium" .
+
+wd:Q1640850 a ns1:Symptom ;
+    rdfs:label "hyperactivity" .
+
+wd:Q1640924 a ns1:Symptom ;
+    rdfs:label "hyperfocus" .
+
+wd:Q1642170 a ns1:Disease ;
+    rdfs:label "hemophagocytic lymphohistiocytosis" .
+
+wd:Q164778 a ns1:Cause ;
+    rdfs:label "Rotavirus" .
+
+wd:Q1648484 a ns1:Disease ;
+    rdfs:label "Duchenne muscular dystrophy" ;
+    ns1:hasCause wd:Q42918 ;
+    ns1:hasSymptom wd:Q270421,
+        wd:Q2844600,
+        wd:Q847583 .
+
+wd:Q167178 a ns1:Disease ;
+    rdfs:label "scabies" ;
+    ns1:hasCause wd:Q500869 ;
+    ns1:hasSymptom wd:Q199602,
+        wd:Q38933,
+        wd:Q653197 .
+
+wd:Q16775468 a ns1:Disease ;
+    rdfs:label "elephantiasis" ;
+    ns1:hasCause wd:Q192100,
+        wd:Q5359413,
+        wd:Q7206990 .
+
+wd:Q16877704 a ns1:Symptom ;
+    rdfs:label "mycetoma" .
+
+wd:Q170518 a ns1:Disease ;
+    rdfs:label "burn" .
+
+wd:Q17135346 a ns1:Cause ;
+    rdfs:label "Indian childhood cirrhosis" .
+
+wd:Q172941 a ns1:Cause ;
+    rdfs:label "peptic ulcer disease" .
+
+wd:Q173022 a ns1:Symptom ;
+    rdfs:label "bronchitis" .
+
+wd:Q17450153 a ns1:Cause ;
+    rdfs:label "animal attack" .
+
+wd:Q1750471 a ns1:Disease ;
+    rdfs:label "Sly syndrome" .
+
+wd:Q1765748 a ns1:Disease ;
+    rdfs:label "transplant rejection" .
+
+wd:Q178061 a ns1:Symptom ;
+    rdfs:label "shock" .
+
+wd:Q178069 a ns1:Symptom ;
+    rdfs:label "necrosis" .
+
+wd:Q178436 a ns1:Symptom ;
+    rdfs:label "constipation" .
+
+wd:Q179399 a ns1:Disease ;
+    rdfs:label "infertility" .
+
+wd:Q1799146 a ns1:Symptom ;
+    rdfs:label "irritant dermatitis" .
+
+wd:Q179945 a ns1:Disease ;
+    rdfs:label "psoriasis" .
+
+wd:Q181923 a ns1:Disease ;
+    rdfs:label "attention deficit hyperactivity disorder" ;
+    ns1:hasSymptom wd:Q1549918,
+        wd:Q1640924,
+        wd:Q21515327,
+        wd:Q3316140,
+        wd:Q5419936,
+        wd:Q67135693 .
+
+wd:Q182413 a ns1:Disease ;
+    rdfs:label "non-controlled substance abuse" .
+
+wd:Q184627 a ns1:Cause ;
+    rdfs:label "human papillomavirus infection" .
+
+wd:Q184753 a ns1:Disease ;
+    rdfs:label "wound" .
+
+wd:Q18478450 a ns1:Disease ;
+    rdfs:label "postoperative complications" ;
+    ns1:hasCause wd:Q15636229 .
+
+wd:Q18553762 a ns1:Disease ;
+    rdfs:label "migraine with aura" ;
+    ns1:hasSymptom wd:Q372236 .
+
+wd:Q18554341 a ns1:Disease ;
+    rdfs:label "hepatic coma" .
+
+wd:Q18554536 a ns1:Disease ;
+    rdfs:label "paranasal sinus disease" .
+
+wd:Q18555095 a ns1:Disease ;
+    rdfs:label "infantile epileptic encephalopathy" .
+
+wd:Q18555302 a ns1:Disease ;
+    rdfs:label "scalp dermatosis" .
+
+wd:Q18556815 a ns1:Disease ;
+    rdfs:label "biphasic synovial sarcoma" .
+
+wd:Q18557991 a ns1:Disease ;
+    rdfs:label "Hodgkin's lymphoma, mixed cellularity" .
+
+wd:Q18558101 a ns1:Disease ;
+    rdfs:label "mechanical strabismus" .
+
+wd:Q1856914 a ns1:Disease ;
+    rdfs:label "nocardiosis" ;
+    ns1:hasCause wd:Q26268644,
+        wd:Q26268728,
+        wd:Q26268759,
+        wd:Q26268821,
+        wd:Q26268826,
+        wd:Q26268854,
+        wd:Q3140162,
+        wd:Q4425574,
+        wd:Q7046294 ;
+    ns1:hasSymptom wd:Q141440,
+        wd:Q16877704,
+        wd:Q1877550,
+        wd:Q2673323,
+        wd:Q35805,
+        wd:Q480971,
+        wd:Q48143,
+        wd:Q757838 .
+
+wd:Q18621601 a ns1:Cause ;
+    rdfs:label "intoxication" .
+
+wd:Q186235 a ns1:Symptom ;
+    rdfs:label "myocarditis" .
+
+wd:Q186470 a ns1:Symptom ;
+    rdfs:label "tonsillitis" .
+
+wd:Q1877550 a ns1:Symptom ;
+    rdfs:label "lung abscess" .
+
+wd:Q1888634 a ns1:Symptom ;
+    rdfs:label "allodynia" .
+
+wd:Q18975047 a ns1:Disease ;
+    rdfs:label "hematologic cancer" .
+
+wd:Q18975788 a ns1:Disease ;
+    rdfs:label "spindle cell sarcoma" .
+
+wd:Q18975855 a ns1:Disease ;
+    rdfs:label "metastatic melanoma" .
+
+wd:Q19000444 a ns1:Disease ;
+    rdfs:label "neurotic disorder" ;
+    ns1:hasSymptom wd:Q130741 .
+
+wd:Q192100 a ns1:Cause ;
+    rdfs:label "filarial elephantiasis" .
+
+wd:Q192120 a ns1:Symptom ;
+    rdfs:label "cyanosis" .
+
+wd:Q192360 a ns1:Cause ;
+    rdfs:label "autoimmunity" .
+
+wd:Q192692 a ns1:Symptom ;
+    rdfs:label "nightmare" .
+
+wd:Q19275831 a ns1:Symptom ;
+    rdfs:label "choking" .
+
+wd:Q198 a ns1:Cause ;
+    rdfs:label "war" .
+
+wd:Q199615 a ns1:Symptom ;
+    rdfs:label "encephalitis" .
+
+wd:Q2001556 a ns1:Symptom ;
+    rdfs:label "Risus sardonicus" .
+
+wd:Q202013 a ns1:Symptom ;
+    rdfs:label "nosebleed" .
+
+wd:Q202387 a ns1:Disease ;
+    rdfs:label "post-traumatic stress disorder" ;
+    ns1:hasCause wd:Q131572,
+        wd:Q1339137,
+        wd:Q198,
+        wd:Q2827132,
+        wd:Q558075,
+        wd:Q650711 ;
+    ns1:hasSymptom wd:Q154430,
+        wd:Q177190,
+        wd:Q1869874,
+        wd:Q192692,
+        wd:Q3592817,
+        wd:Q933954 .
+
+wd:Q202758 a ns1:Disease ;
+    rdfs:label "hypoglycemia" ;
+    ns1:hasSymptom wd:Q223907 .
+
+wd:Q202837 a ns1:Symptom ;
+    rdfs:label "cardiac arrest" .
+
+wd:Q2032041 a ns1:Disease ;
+    rdfs:label "unstable angina" .
+
+wd:Q2044949 a ns1:Symptom ;
+    rdfs:label "corneal dystrophy" .
+
+wd:Q2051919 a ns1:Disease ;
+    rdfs:label "Extravasation" .
+
+wd:Q205764 a ns1:Disease ;
+    rdfs:label "endometriosis" .
+
+wd:Q205835 a ns1:Symptom ;
+    rdfs:label "snoring" .
+
+wd:Q2058941 a ns1:Disease ;
+    rdfs:label "microscopic colitis" .
+
+wd:Q208413 a ns1:Cause ;
+    rdfs:label "botulinum toxin group" .
+
+wd:Q208450 a ns1:Symptom ;
+    rdfs:label "panic" .
+
+wd:Q208726 a ns1:Disease ;
+    rdfs:label "anogenital venereal wart" ;
+    ns1:hasCause wd:Q184627 .
+
+wd:Q2092064 a ns1:Disease ;
+    rdfs:label "hemophilia A" .
+
+wd:Q2095 a ns1:Cause ;
+    rdfs:label "food" .
+
+wd:Q209733 a ns1:Cause ;
+    rdfs:label "chronic fatigue syndrome" .
+
+wd:Q21006662 a ns1:Symptom ;
+    rdfs:label "acute respiratory insufficiency" .
+
+wd:Q210427 a ns1:Disease ;
+    rdfs:label "cerebral palsy" ;
+    ns1:hasCause wd:Q105688,
+        wd:Q2694437,
+        wd:Q576349 ;
+    ns1:hasSymptom wd:Q1097541,
+        wd:Q1282114,
+        wd:Q1529977,
+        wd:Q574360,
+        wd:Q738538 .
+
+wd:Q21077147 a ns1:Symptom ;
+    rdfs:label "eye pain" .
+
+wd:Q21112283 a ns1:Symptom ;
+    rdfs:label "respiratory irritation" .
+
+wd:Q21118859 a ns1:Symptom ;
+    rdfs:label "nasal irritation" .
+
+wd:Q21173555 a ns1:Disease ;
+    rdfs:label "phenacyl chloride exposure" ;
+    ns1:hasCause wd:Q284209 ;
+    ns1:hasSymptom wd:Q1115038,
+        wd:Q1166142,
+        wd:Q11820606,
+        wd:Q12153824,
+        wd:Q127076,
+        wd:Q1324592,
+        wd:Q167844,
+        wd:Q1799146,
+        wd:Q180007,
+        wd:Q183425,
+        wd:Q186889,
+        wd:Q188008,
+        wd:Q19275831,
+        wd:Q2044949,
+        wd:Q208450,
+        wd:Q209583,
+        wd:Q209789,
+        wd:Q21077147,
+        wd:Q21112283,
+        wd:Q2141836,
+        wd:Q21505006,
+        wd:Q2610154,
+        wd:Q276469,
+        wd:Q279330,
+        wd:Q281289,
+        wd:Q3513968,
+        wd:Q35805,
+        wd:Q35830,
+        wd:Q394129,
+        wd:Q41861,
+        wd:Q4424146,
+        wd:Q4930803,
+        wd:Q517104,
+        wd:Q6402731,
+        wd:Q693058,
+        wd:Q7168709,
+        wd:Q734512,
+        wd:Q745430,
+        wd:Q757838,
+        wd:Q77776,
+        wd:Q81938,
+        wd:Q857667,
+        wd:Q883863 .
+
+wd:Q213600 a ns1:Cause ;
+    rdfs:label "sleep apnea" .
+
+wd:Q2141836 a ns1:Symptom ;
+    rdfs:label "chemical burn" .
+
+wd:Q21505006 a ns1:Symptom ;
+    rdfs:label "eye perforation" .
+
+wd:Q21513506 a ns1:Symptom ;
+    rdfs:label "barking cough" .
+
+wd:Q21515327 a ns1:Symptom ;
+    rdfs:label "distractibility" .
+
+wd:Q217519 a ns1:Disease ;
+    rdfs:label "bubonic plague" ;
+    ns1:hasCause wd:Q153875 ;
+    ns1:hasSymptom wd:Q2260058,
+        wd:Q3407854 .
+
+wd:Q2200359 a ns1:Disease ;
+    rdfs:label "Sanfilippo syndrome" .
+
+wd:Q225957 a ns1:Symptom ;
+    rdfs:label "dysarthria" .
+
+wd:Q2264130 a ns1:Disease ;
+    rdfs:label "trichuriasis" ;
+    ns1:hasCause wd:Q1154414 ;
+    ns1:hasSymptom wd:Q183425,
+        wd:Q2306782,
+        wd:Q40878,
+        wd:Q505142,
+        wd:Q718113 .
+
+wd:Q2306782 a ns1:Symptom ;
+    rdfs:label "hypochromic anemia" .
+
+wd:Q2339038 a ns1:Disease ;
+    rdfs:label "neurogenic bladder" ;
+    ns1:hasCause wd:Q3339235 .
+
+wd:Q2346396 a ns1:Symptom ;
+    rdfs:label "iritis" .
+
+wd:Q2360849 a ns1:Disease ;
+    rdfs:label "strongyloidiasis" ;
+    ns1:hasCause wd:Q244111 ;
+    ns1:hasSymptom wd:Q10686316,
+        wd:Q1362864,
+        wd:Q167844,
+        wd:Q173022,
+        wd:Q183134,
+        wd:Q183425,
+        wd:Q186235,
+        wd:Q186889,
+        wd:Q187440,
+        wd:Q199602,
+        wd:Q2346396,
+        wd:Q35805,
+        wd:Q38933,
+        wd:Q40878,
+        wd:Q474959,
+        wd:Q48143,
+        wd:Q633403,
+        wd:Q6452285,
+        wd:Q683498,
+        wd:Q86 .
+
+wd:Q2434711 a ns1:Symptom ;
+    rdfs:label "phonophobia" .
+
+wd:Q244111 a ns1:Cause ;
+    rdfs:label "Strongyloides stercoralis" .
+
+wd:Q2450598 a ns1:Disease ;
+    rdfs:label "infective endocarditis" ;
+    ns1:hasCause wd:Q166231 ;
+    ns1:hasSymptom wd:Q38933 .
+
+wd:Q246084 a ns1:Disease ;
+    rdfs:label "cystitis" ;
+    ns1:hasSymptom wd:Q101991 .
+
+wd:Q24869904 a ns1:Symptom ;
+    rdfs:label "remittent fever" .
+
+wd:Q2603200 a ns1:Symptom ;
+    rdfs:label "viral pneumonia" .
+
+wd:Q2610154 a ns1:Symptom ;
+    rdfs:label "red eye" .
+
+wd:Q26268644 a ns1:Cause ;
+    rdfs:label "Nocardia abscessus" .
+
+wd:Q26268728 a ns1:Cause ;
+    rdfs:label "Nocardia brevicatena" .
+
+wd:Q26268759 a ns1:Cause ;
+    rdfs:label "Nocardia cyriacigeorgica" .
+
+wd:Q26268821 a ns1:Cause ;
+    rdfs:label "Nocardia nova" .
+
+wd:Q26268826 a ns1:Cause ;
+    rdfs:label "Nocardia paucivorans" .
+
+wd:Q26268854 a ns1:Cause ;
+    rdfs:label "Nocardia transvalensis" .
+
+wd:Q2694437 a ns1:Cause ;
+    rdfs:label "asphyxia neonatorum" .
+
+wd:Q271993 a ns1:Disease ;
+    rdfs:label "hyperglycemia" .
+
+wd:Q273510 a ns1:Disease ;
+    rdfs:label "candidiasis" .
+
+wd:Q276469 a ns1:Symptom ;
+    rdfs:label "blister" .
+
+wd:Q279330 a ns1:Symptom ;
+    rdfs:label "bronchospasm" .
+
+wd:Q2827132 a ns1:Cause ;
+    rdfs:label "physical abuse" .
+
+wd:Q284209 a ns1:Cause ;
+    rdfs:label "2-chloroacetophenone" .
+
+wd:Q2844600 a ns1:Symptom ;
+    rdfs:label "muscular atrophy" .
+
+wd:Q2866610 a ns1:Cause ;
+    rdfs:label "hyposalivation" .
+
+wd:Q2886899 a ns1:Disease ;
+    rdfs:label "oral candidiasis" .
+
+wd:Q3002092 a ns1:Symptom ;
+    rdfs:label "abdominal cramps" .
+
+wd:Q304497 a ns1:Disease ;
+    rdfs:label "hemiplegia" .
+
+wd:Q3073147 a ns1:Symptom ;
+    rdfs:label "intermittent fever" .
+
+wd:Q30896751 a ns1:Cause ;
+    rdfs:label "food allergen" .
+
+wd:Q309471 a ns1:Cause ;
+    rdfs:label "Clostridium tetani" .
+
+wd:Q3140162 a ns1:Cause ;
+    rdfs:label "Nocardia asteroides" .
+
+wd:Q3144934 a ns1:Cause ;
+    rdfs:label "HFE hereditary haemochromatosis" .
+
+wd:Q3184856 a ns1:Disease ;
+    rdfs:label "substance abuse" ;
+    ns1:hasCause wd:Q7632070 .
+
+wd:Q324464 a ns1:Disease ;
+    rdfs:label "testicular cancer" .
+
+wd:Q3245680 a ns1:Symptom ;
+    rdfs:label "mouth ulcer" .
+
+wd:Q3269466 a ns1:Symptom ;
+    rdfs:label "lymphadenitis" .
+
+wd:Q3286546 a ns1:Disease ;
+    rdfs:label "respiratory disease" .
+
+wd:Q3316140 a ns1:Symptom ;
+    rdfs:label "emotional dysregulation" .
+
+wd:Q3331454 a ns1:Disease ;
+    rdfs:label "X-linked myotubular myopathy" .
+
+wd:Q3339235 a ns1:Cause ;
+    rdfs:label "neurological disorder" .
+
+wd:Q3392853 a ns1:Disease ;
+    rdfs:label "lung disease" .
+
+wd:Q3407854 a ns1:Symptom ;
+    rdfs:label "prostration" .
+
+wd:Q344873 a ns1:Disease ;
+    rdfs:label "acute respiratory distress syndrome" ;
+    ns1:hasSymptom wd:Q178061,
+        wd:Q188008,
+        wd:Q192120,
+        wd:Q570920 .
+
+wd:Q349856 a ns1:Cause ;
+    rdfs:label "genetic variation" .
+
+wd:Q3513968 a ns1:Symptom ;
+    rdfs:label "corneal opacification and other ocular anomalies" .
+
+wd:Q352585 a ns1:Symptom ;
+    rdfs:label "frequent urination" .
+
+wd:Q3540864 a ns1:Symptom ;
+    rdfs:label "balance disorder" .
+
+wd:Q3567802 a ns1:Symptom ;
+    rdfs:label "neck pain" .
+
+wd:Q35869 a ns1:Disease ;
+    rdfs:label "asthma" ;
+    ns1:hasSymptom wd:Q101991,
+        wd:Q35805,
+        wd:Q517104,
+        wd:Q693058 .
+
+wd:Q3592817 a ns1:Symptom ;
+    rdfs:label "avoidance coping" .
+
+wd:Q36956 a ns1:Disease ;
+    rdfs:label "leprosy" ;
+    ns1:hasCause wd:Q10748967,
+        wd:Q155891 ;
+    ns1:hasSymptom wd:Q1480291,
+        wd:Q1502312,
+        wd:Q1557686,
+        wd:Q1641556,
+        wd:Q202013,
+        wd:Q3705665,
+        wd:Q3899830,
+        wd:Q4162411,
+        wd:Q620918,
+        wd:Q757838,
+        wd:Q767568,
+        wd:Q769220 .
+
+wd:Q3705799 a ns1:Disease ;
+    rdfs:label "chronic mucocutaneous candidiasis" .
+
+wd:Q372236 a ns1:Symptom ;
+    rdfs:label "acephalgic migraine" .
+
+wd:Q373597 a ns1:Symptom ;
+    rdfs:label "hematuria" .
+
+wd:Q3740609 a ns1:Disease ;
+    rdfs:label "seasonal allergic rhinitis" .
+
+wd:Q3774744 a ns1:Symptom ;
+    rdfs:label "respiratory arrest" .
+
+wd:Q377978 a ns1:Disease ;
+    rdfs:label "thrombophlebitis" ;
+    ns1:hasSymptom wd:Q1423167 .
+
+wd:Q3899830 a ns1:Symptom ;
+    rdfs:label "nasal septal perforation" .
+
+wd:Q39222 a ns1:Disease ;
+    rdfs:label "rabies" ;
+    ns1:hasCause wd:Q698976 ;
+    ns1:hasSymptom wd:Q107231,
+        wd:Q1128283,
+        wd:Q127076,
+        wd:Q130741,
+        wd:Q1640850,
+        wd:Q1869874,
+        wd:Q202837,
+        wd:Q2260058,
+        wd:Q2434711,
+        wd:Q281289,
+        wd:Q29299,
+        wd:Q3774744,
+        wd:Q38933,
+        wd:Q44619,
+        wd:Q56635009,
+        wd:Q761862,
+        wd:Q769220,
+        wd:Q81938,
+        wd:Q86,
+        wd:Q9073584 .
+
+wd:Q394129 a ns1:Symptom ;
+    rdfs:label "psychomotor agitation" .
+
+wd:Q3993706 a ns1:Disease ;
+    rdfs:label "congenital torticollis" .
+
+wd:Q41083 a ns1:Disease ;
+    rdfs:label "syphilis" ;
+    ns1:hasCause wd:Q156007 .
+
+wd:Q41112 a ns1:Cause ;
+    rdfs:label "schizophrenia" .
+
+wd:Q4112120 a ns1:Cause ;
+    rdfs:label "Hepatitis A virus" .
+
+wd:Q4116663 a ns1:Disease ;
+    rdfs:label "musculoskeletal disorder" .
+
+wd:Q4162411 a ns1:Symptom ;
+    rdfs:label "dystrophy" .
+
+wd:Q4280605 a ns1:Disease ;
+    rdfs:label "mansonelliasis" ;
+    ns1:hasCause wd:Q166231 .
+
+wd:Q42918 a ns1:Cause ;
+    rdfs:label "mutation" .
+
+wd:Q4293079 a ns1:Disease ;
+    rdfs:label "mycobacterium infectious disease" ;
+    ns1:hasCause wd:Q166231 .
+
+wd:Q4340209 a ns1:Symptom ;
+    rdfs:label "mental depression" .
+
+wd:Q4420149 a ns1:Disease ;
+    rdfs:label "withdrawal symptom" ;
+    ns1:hasCause wd:Q498902 .
+
+wd:Q4425574 a ns1:Cause ;
+    rdfs:label "Nocardia brasiliensis" .
+
+wd:Q44619 a ns1:Symptom ;
+    rdfs:label "fear" .
+
+wd:Q448310 a ns1:Disease ;
+    rdfs:label "seborrhoeic dermatitis" .
+
+wd:Q468433 a ns1:Symptom ;
+    rdfs:label "anosmia" .
+
+wd:Q468771 a ns1:Cause ;
+    rdfs:label "Ascaris lumbricoides" .
+
+wd:Q471521 a ns1:Disease ;
+    rdfs:label "allergic conjunctivitis" ;
+    ns1:hasSymptom wd:Q4732121 .
+
+wd:Q4732121 a ns1:Symptom ;
+    rdfs:label "allergic response" .
+
+wd:Q474718 a ns1:Symptom ;
+    rdfs:label "night sweats" .
+
+wd:Q47790 a ns1:Disease ;
+    rdfs:label "tetanus" ;
+    ns1:hasCause wd:Q309471 ;
+    ns1:hasSymptom wd:Q2001556,
+        wd:Q209583,
+        wd:Q29299,
+        wd:Q38933,
+        wd:Q4424146,
+        wd:Q56233069,
+        wd:Q574360,
+        wd:Q623289,
+        wd:Q767485,
+        wd:Q81938,
+        wd:Q841878,
+        wd:Q86,
+        wd:Q936070 .
+
+wd:Q485831 a ns1:Symptom ;
+    rdfs:label "lymphopenia" .
+
+wd:Q498902 a ns1:Cause ;
+    rdfs:label "drug withdrawal" .
+
+wd:Q500869 a ns1:Cause ;
+    rdfs:label "Sarcoptes scabiei" .
+
+wd:Q505142 a ns1:Symptom ;
+    rdfs:label "eosinophilia" .
+
+wd:Q525642 a ns1:Disease ;
+    rdfs:label "DiGeorge syndrome" ;
+    ns1:hasSymptom wd:Q7799616 .
+
+wd:Q5359413 a ns1:Cause ;
+    rdfs:label "elephantiasis nostras" .
+
+wd:Q5419936 a ns1:Symptom ;
+    rdfs:label "executive disfunction" .
+
+wd:Q552348 a ns1:Disease ;
+    rdfs:label "eclampsia" .
+
+wd:Q55780592 a ns1:Disease ;
+    rdfs:label "facial spasm" .
+
+wd:Q558075 a ns1:Cause ;
+    rdfs:label "sexual violence" .
+
+wd:Q56002 a ns1:Disease ;
+    rdfs:label "ventricular tachycardia" .
+
+wd:Q56233069 a ns1:Symptom ;
+    rdfs:label "tetanus triad" .
+
+wd:Q5646341 a ns1:Symptom ;
+    rdfs:label "Hampton hump" .
+
+wd:Q56603543 a ns1:Disease ;
+    rdfs:label "anal disease" .
+
+wd:Q56635009 a ns1:Symptom ;
+    rdfs:label "hydrophobia (sign)" .
+
+wd:Q570197 a ns1:Disease ;
+    rdfs:label "proteinuria" .
+
+wd:Q5731737 a ns1:Cause ;
+    rdfs:label "hepatitis E virus" .
+
+wd:Q576349 a ns1:Cause ;
+    rdfs:label "encephalopathy" .
+
+wd:Q57823162 a ns1:Symptom ;
+    rdfs:label "lightheadedness" .
+
+wd:Q582484 a ns1:Symptom ;
+    rdfs:label "nodule" .
+
+wd:Q58490835 a ns1:Symptom ;
+    rdfs:label "chronic neuropathic pain" .
+
+wd:Q58491385 a ns1:Symptom ;
+    rdfs:label "chronic widespread pain" .
+
+wd:Q593958 a ns1:Disease ;
+    rdfs:label "transient cerebral isolation" .
+
+wd:Q599982 a ns1:Symptom ;
+    rdfs:label "enanthem" .
+
+wd:Q6029216 a ns1:Disease ;
+    rdfs:label "infectious bone disease" .
+
+wd:Q606216 a ns1:Symptom ;
+    rdfs:label "ageusia" .
+
+wd:Q620639 a ns1:Symptom ;
+    rdfs:label "dysautonomia" .
+
+wd:Q620918 a ns1:Symptom ;
+    rdfs:label "lagophthalmos" .
+
+wd:Q622427 a ns1:Symptom ;
+    rdfs:label "ptosis" .
+
+wd:Q623289 a ns1:Symptom ;
+    rdfs:label "dysphagia" .
+
+wd:Q633403 a ns1:Symptom ;
+    rdfs:label "asthenia" .
+
+wd:Q6402731 a ns1:Symptom ;
+    rdfs:label "dysgeusia" .
+
+wd:Q6452285 a ns1:Symptom ;
+    rdfs:label "ulcer" .
+
+wd:Q64910143 a ns1:Cause ;
+    rdfs:label "drug misuse" .
+
+wd:Q649717 a ns1:Disease ;
+    rdfs:label "sunburn" ;
+    ns1:hasCause wd:Q11391 .
+
+wd:Q650711 a ns1:Cause ;
+    rdfs:label "combat" .
+
+wd:Q653267 a ns1:Symptom ;
+    rdfs:label "polyphagia" .
+
+wd:Q6534510 a ns1:Disease ;
+    rdfs:label "leukocyte adhesion deficiency-1" .
+
+wd:Q662860 a ns1:Cause ;
+    rdfs:label "smoking" .
+
+wd:Q6708277 a ns1:Disease ;
+    rdfs:label "lymphoid leukemia" .
+
+wd:Q67135693 a ns1:Symptom ;
+    rdfs:label "rejection sensitive dysphoria" .
+
+wd:Q677449 a ns1:Cause ;
+    rdfs:label "aspiration pneumonia" .
+
+wd:Q681817 a ns1:Disease ;
+    rdfs:label "squamous cell carcinoma" .
+
+wd:Q6844 a ns1:Cause ;
+    rdfs:label "Hepatitis B virus" .
+
+wd:Q68854 a ns1:Disease ;
+    rdfs:label "snakebite" ;
+    ns1:hasCause wd:Q17450153 .
+
+wd:Q698976 a ns1:Cause ;
+    rdfs:label "rabies virus" .
+
+wd:Q7046294 a ns1:Cause ;
+    rdfs:label "Nocardia farcinica" .
+
+wd:Q707774 a ns1:Disease ;
+    rdfs:label "coronary thrombosis" .
+
+wd:Q7168709 a ns1:Symptom ;
+    rdfs:label "peripheral edema" .
+
+wd:Q720026 a ns1:Symptom ;
+    rdfs:label "brain damage" .
+
+wd:Q7206990 a ns1:Cause ;
+    rdfs:label "podoconiosis" .
+
+wd:Q7243137 a ns1:Disease ;
+    rdfs:label "primary hyperoxaluria" .
+
+wd:Q725345 a ns1:Symptom ;
+    rdfs:label "Kaposi's sarcoma" .
+
+wd:Q7255052 a ns1:Disease ;
+    rdfs:label "Pseudomonas infection" ;
+    ns1:hasCause wd:Q131143 .
+
+wd:Q7331102 a ns1:Cause ;
+    rdfs:label "alcohol abuse" .
+
+wd:Q734512 a ns1:Symptom ;
+    rdfs:label "bronchopneumonia" .
+
+wd:Q738538 a ns1:Symptom ;
+    rdfs:label "tic" .
+
+wd:Q745430 a ns1:Symptom ;
+    rdfs:label "denudation" .
+
+wd:Q751641 a ns1:Disease ;
+    rdfs:label "hypersomnia" .
+
+wd:Q761862 a ns1:Symptom ;
+    rdfs:label "hypersalivation" .
+
+wd:Q7632070 a ns1:Cause ;
+    rdfs:label "substance use disorder" .
+
+wd:Q767568 a ns1:Symptom ;
+    rdfs:label "mutilation" .
+
+wd:Q769815 a ns1:Disease ;
+    rdfs:label "food allergy" ;
+    ns1:hasCause wd:Q2095,
+        wd:Q30896751 .
+
+wd:Q775940 a ns1:Symptom ;
+    rdfs:label "diplopia" .
+
+wd:Q77776 a ns1:Symptom ;
+    rdfs:label "irritation" .
+
+wd:Q7799616 a ns1:Symptom ;
+    rdfs:label "thymic hypoplasia" .
+
+wd:Q786844 a ns1:Cause ;
+    rdfs:label "autoimmune hepatitis" .
+
+wd:Q7987424 a ns1:Symptom ;
+    rdfs:label "Westermark sign" .
+
+wd:Q815753 a ns1:Disease ;
+    rdfs:label "filariasis" .
+
+wd:Q816798 a ns1:Disease ;
+    rdfs:label "amyloidosis" .
+
+wd:Q82069695 a ns1:Cause ;
+    rdfs:label "SARS-CoV-2" .
+
+wd:Q827017 a ns1:Symptom ;
+    rdfs:label "gait abnormality" .
+
+wd:Q83030 a ns1:Cause ;
+    rdfs:label "dementia" .
+
+wd:Q831530 a ns1:Disease ;
+    rdfs:label "rosacea" .
+
+wd:Q8349689 a ns1:Cause ;
+    rdfs:label "physical condition" .
+
+wd:Q835718 a ns1:Symptom ;
+    rdfs:label "opportunistic infection" .
+
+wd:Q841878 a ns1:Symptom ;
+    rdfs:label "neck stiffness" .
+
+wd:Q842428 a ns1:Disease ;
+    rdfs:label "ascariasis" ;
+    ns1:hasCause wd:Q468771 ;
+    ns1:hasSymptom wd:Q127076,
+        wd:Q183425,
+        wd:Q186889,
+        wd:Q187440,
+        wd:Q2673323,
+        wd:Q3002092,
+        wd:Q35805,
+        wd:Q40878,
+        wd:Q480971 .
+
+wd:Q84263196 a ns1:Disease ;
+    rdfs:label "COVID-19" ;
+    ns1:hasCause wd:Q82069695 ;
+    ns1:hasSymptom wd:Q105688,
+        wd:Q160796,
+        wd:Q167844,
+        wd:Q170082,
+        wd:Q183425,
+        wd:Q184674,
+        wd:Q186889,
+        wd:Q188008,
+        wd:Q199615,
+        wd:Q2260058,
+        wd:Q254327,
+        wd:Q2603200,
+        wd:Q3245488,
+        wd:Q327988,
+        wd:Q35805,
+        wd:Q38933,
+        wd:Q40878,
+        wd:Q468433,
+        wd:Q474959,
+        wd:Q485831,
+        wd:Q5445,
+        wd:Q599982,
+        wd:Q606216,
+        wd:Q647099,
+        wd:Q720026,
+        wd:Q767485,
+        wd:Q86,
+        wd:Q9690 .
+
+wd:Q845779 a ns1:Disease ;
+    rdfs:label "Fanconi anemia" .
+
+wd:Q847726 a ns1:Symptom ;
+    rdfs:label "lymphadenopathy" .
+
+wd:Q857667 a ns1:Symptom ;
+    rdfs:label "pulmonary edema" .
+
+wd:Q876887 a ns1:Disease ;
+    rdfs:label "cellulitis" .
+
+wd:Q9008818 a ns1:Disease ;
+    rdfs:label "venous insufficiency" .
+
+wd:Q9073584 a ns1:Symptom ;
+    rdfs:label "increase" .
+
+wd:Q926462 a ns1:Disease ;
+    rdfs:label "pityriasis versicolor" .
+
+wd:Q9294051 a ns1:Disease ;
+    rdfs:label "ocular hypertension" .
+
+wd:Q933954 a ns1:Symptom ;
+    rdfs:label "heart rate variability" .
+
+wd:Q936070 a ns1:Symptom ;
+    rdfs:label "trismus" .
+
+wd:Q936549 a ns1:Cause ;
+    rdfs:label "somatoform disorder" .
+
+wd:Q939378 a ns1:Disease ;
+    rdfs:label "abrasion" .
+
+wd:Q943897 a ns1:Cause ;
+    rdfs:label "gastroparesis" .
+
+wd:Q949302 a ns1:Disease ;
+    rdfs:label "skin disease" .
+
+wd:Q953638 a ns1:Disease ;
+    rdfs:label "Wiskott-Aldrich syndrome" .
+
+wd:Q954674 a ns1:Disease ;
+    rdfs:label "iron deficiency anemia" .
+
+wd:Q96199399 a ns1:Cause ;
+    rdfs:label "idiopathic chronic fatigue" .
+
+wd:Q974135 a ns1:Cause ;
+    rdfs:label "chemotherapy" .
+
+wd:Q977090 a ns1:Disease ;
+    rdfs:label "vulvovaginal candidiasis" ;
+    ns1:hasSymptom wd:Q653197 .
+
+wd:Q101991 a ns1:Symptom ;
+    rdfs:label "inflammation" .
+
+wd:Q105688 a ns1:Cause,
+        ns1:Symptom ;
+    rdfs:label "hypoxia" .
+
+wd:Q107231 a ns1:Symptom ;
+    rdfs:label "paralysis" .
+
+wd:Q109186 a ns1:Symptom ;
+    rdfs:label "swelling" .
+
+wd:Q1115038 a ns1:Symptom ;
+    rdfs:label "runny nose" .
+
+wd:Q1128283 a ns1:Symptom ;
+    rdfs:label "mydriasis" .
+
+wd:Q1129007 a ns1:Disease ;
+    rdfs:label "angioedema" .
+
+wd:Q114085 a ns1:Disease ;
+    rdfs:label "rhinitis" ;
+    ns1:hasSymptom wd:Q1115038,
+        wd:Q21118859,
+        wd:Q3245488,
+        wd:Q35830,
+        wd:Q86 .
+
+wd:Q1162276 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "xerostomia" ;
+    ns1:hasCause wd:Q2866610 .
+
+wd:Q1166142 a ns1:Symptom ;
+    rdfs:label "erythema" .
+
+wd:Q12199 a ns1:Disease ;
+    rdfs:label "HIV/AIDS" ;
+    ns1:hasCause wd:Q15787 ;
+    ns1:hasSymptom wd:Q102187500,
+        wd:Q1292082,
+        wd:Q15637420,
+        wd:Q208414,
+        wd:Q2260058,
+        wd:Q3245680,
+        wd:Q38933,
+        wd:Q40878,
+        wd:Q474718,
+        wd:Q474959,
+        wd:Q653197,
+        wd:Q718113,
+        wd:Q725345,
+        wd:Q835718,
+        wd:Q847726,
+        wd:Q945238,
+        wd:Q9690 .
+
+wd:Q12204 a ns1:Disease ;
+    rdfs:label "tuberculosis" ;
+    ns1:hasCause wd:Q130971 ;
+    ns1:hasSymptom wd:Q35805,
+        wd:Q38933,
+        wd:Q647099,
+        wd:Q718113 .
+
+wd:Q124407 a ns1:Disease ;
+    rdfs:label "type-1 diabetes" ;
+    ns1:hasSymptom wd:Q1124286,
+        wd:Q653267 .
+
+wd:Q1292082 a ns1:Symptom ;
+    rdfs:label "sore throat" .
+
+wd:Q130741 a ns1:Symptom ;
+    rdfs:label "hallucination" .
+
+wd:Q133244 a ns1:Symptom ;
+    rdfs:label "jaundice" .
+
+wd:Q1362864 a ns1:Symptom ;
+    rdfs:label "hepatomegaly" .
+
+wd:Q147778 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "liver cirrhosis" ;
+    ns1:hasCause wd:Q1058608,
+        wd:Q117121,
+        wd:Q131742,
+        wd:Q15326,
+        wd:Q17135346,
+        wd:Q3144934,
+        wd:Q786844 .
+
+wd:Q152234 a ns1:Symptom ;
+    rdfs:label "edema" .
+
+wd:Q15326 a ns1:Cause ;
+    rdfs:label "alcoholism" .
+
+wd:Q154430 a ns1:Symptom ;
+    rdfs:label "anxiety" .
+
+wd:Q1641556 a ns1:Symptom ;
+    rdfs:label "hypoesthesia" .
+
+wd:Q170082 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "psychosis" ;
+    ns1:hasCause wd:Q115990237,
+        wd:Q12140,
+        wd:Q123414,
+        wd:Q131755,
+        wd:Q1364801,
+        wd:Q41112,
+        wd:Q42844,
+        wd:Q64910143,
+        wd:Q7331102,
+        wd:Q83030,
+        wd:Q834047,
+        wd:Q8349689 .
+
+wd:Q180007 a ns1:Symptom ;
+    rdfs:label "syncope" .
+
+wd:Q180614 a ns1:Disease ;
+    rdfs:label "melanoma" .
+
+wd:Q181754 a ns1:Symptom ;
+    rdfs:label "heart failure" .
+
+wd:Q1827605 a ns1:Disease ;
+    rdfs:label "lipedema" .
+
+wd:Q183134 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "sepsis" ;
+    ns1:hasSymptom wd:Q2260058,
+        wd:Q24869904,
+        wd:Q3073147 .
+
+wd:Q183344 a ns1:Disease ;
+    rdfs:label "sinusitis" .
+
+wd:Q184674 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "erectile dysfunction" .
+
+wd:Q185034 a ns1:Disease ;
+    rdfs:label "sickle-cell disease" .
+
+wd:Q18558122 a ns1:Disease ;
+    rdfs:label "acute myocardial infarction" .
+
+wd:Q187440 a ns1:Symptom ;
+    rdfs:label "urticaria" .
+
+wd:Q189331 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "heart arrhythmia" .
+
+wd:Q189561 a ns1:Disease ;
+    rdfs:label "narcolepsy" .
+
+wd:Q193889 a ns1:Symptom ;
+    rdfs:label "ascites" .
+
+wd:Q19597369 a ns1:Disease ;
+    rdfs:label "gram-negative bacterial infection" ;
+    ns1:hasCause wd:Q166231 .
+
+wd:Q199602 a ns1:Symptom ;
+    rdfs:label "itch" .
+
+wd:Q201180 a ns1:Disease ;
+    rdfs:label "varicose veins" .
+
+wd:Q208414 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "lymphoma" .
+
+wd:Q209789 a ns1:Symptom ;
+    rdfs:label "burping" .
+
+wd:Q221668 a ns1:Disease ;
+    rdfs:label "urinary tract infection" ;
+    ns1:hasSymptom wd:Q1269399,
+        wd:Q183425,
+        wd:Q352585,
+        wd:Q373597,
+        wd:Q38933 .
+
+wd:Q223907 a ns1:Symptom ;
+    rdfs:label "tremor" .
+
+wd:Q2622199 a ns1:Disease ;
+    rdfs:label "upper respiratory tract infection" .
+
+wd:Q266018 a ns1:Disease ;
+    rdfs:label "acute coronary syndrome" .
+
+wd:Q2673323 a ns1:Symptom ;
+    rdfs:label "malaise" .
+
+wd:Q270421 a ns1:Symptom ;
+    rdfs:label "muscle weakness" .
+
+wd:Q29299 a ns1:Symptom ;
+    rdfs:label "irritability" .
+
+wd:Q32147145 a ns1:Disease ;
+    rdfs:label "maturity-onset diabetes of the young type 2" .
+
+wd:Q3245488 a ns1:Symptom ;
+    rdfs:label "nasal congestion" .
+
+wd:Q327988 a ns1:Cause,
+        ns1:Symptom ;
+    rdfs:label "occupational burnout" .
+
+wd:Q34879 a ns1:Disease ;
+    rdfs:label "staphylococcal infection" ;
+    ns1:hasCause wd:Q166231 .
+
+wd:Q3500368 a ns1:Cause ;
+    rdfs:label "psychological stress" .
+
+wd:Q35830 a ns1:Symptom ;
+    rdfs:label "sneeze" .
+
+wd:Q3705665 a ns1:Symptom ;
+    rdfs:label "depigmentation" .
+
+wd:Q3724157 a ns1:Disease ;
+    rdfs:label "migraine without aura" .
+
+wd:Q42844 a ns1:Cause ;
+    rdfs:label "major depressive disorder" .
+
+wd:Q4424146 a ns1:Symptom ;
+    rdfs:label "saliva secretion" .
+
+wd:Q467635 a ns1:Disease ;
+    rdfs:label "multiple myeloma" .
+
+wd:Q480971 a ns1:Symptom ;
+    rdfs:label "low-grade fever" .
+
+wd:Q48143 a ns1:Symptom ;
+    rdfs:label "meningitis" .
+
+wd:Q4930803 a ns1:Symptom ;
+    rdfs:label "blurred vision" .
+
+wd:Q517104 a ns1:Symptom ;
+    rdfs:label "wheeze" .
+
+wd:Q55785266 a ns1:Disease ;
+    rdfs:label "rare dyslipidemia" .
+
+wd:Q570920 a ns1:Symptom ;
+    rdfs:label "tachypnea" .
+
+wd:Q574360 a ns1:Symptom ;
+    rdfs:label "spasm" .
+
+wd:Q708693 a ns1:Cause ;
+    rdfs:label "Hepatitis C virus" .
+
+wd:Q7302398 a ns1:Disease ;
+    rdfs:label "recessive dystrophic epidermolysis bullosa" .
+
+wd:Q767485 a ns1:Symptom ;
+    rdfs:label "respiratory failure" .
+
+wd:Q769220 a ns1:Symptom ;
+    rdfs:label "paresthesia" .
+
+wd:Q79928 a ns1:Disease ;
+    rdfs:label "acne" ;
+    ns1:hasCause wd:Q349856 ;
+    ns1:hasSymptom wd:Q1172159 .
+
+wd:Q815819 a ns1:Disease ;
+    rdfs:label "atrial fibrillation" ;
+    ns1:hasSymptom wd:Q1123260 .
+
+wd:Q834047 a ns1:Cause,
+        ns1:Disease ;
+    rdfs:label "schizoaffective disorder" .
+
+wd:Q847583 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "cardiomyopathy" .
+
+wd:Q883863 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "blepharospasm" .
+
+wd:Q906492 a ns1:Disease ;
+    rdfs:label "dystonia" .
+
+wd:Q945238 a ns1:Symptom ;
+    rdfs:label "peripheral neuropathy" .
+
+wd:Q12152 a ns1:Disease ;
+    rdfs:label "myocardial infarction" ;
+    ns1:hasSymptom wd:Q152234,
+        wd:Q178069,
+        wd:Q180762,
+        wd:Q186889,
+        wd:Q693058 .
+
+wd:Q12192 a ns1:Disease ;
+    rdfs:label "pneumonia" ;
+    ns1:hasCause wd:Q166231,
+        wd:Q662860,
+        wd:Q677449 ;
+    ns1:hasSymptom wd:Q188008,
+        wd:Q205835,
+        wd:Q2260058,
+        wd:Q35805,
+        wd:Q38933,
+        wd:Q570920,
+        wd:Q647099 .
+
+wd:Q131742 a ns1:Cause,
+        ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "hepatitis" ;
+    ns1:hasCause wd:Q15326,
+        wd:Q1607636,
+        wd:Q18621601,
+        wd:Q192360,
+        wd:Q4112120,
+        wd:Q5731737,
+        wd:Q6844,
+        wd:Q708693 ;
+    ns1:hasSymptom wd:Q133244,
+        wd:Q1362864,
+        wd:Q183425,
+        wd:Q254327 .
+
+wd:Q133823 a ns1:Cause,
+        ns1:Disease ;
+    rdfs:label "migraine" ;
+    ns1:hasCause wd:Q24238356,
+        wd:Q3500368 ;
+    ns1:hasSymptom wd:Q127076,
+        wd:Q186889,
+        wd:Q209789,
+        wd:Q281289,
+        wd:Q86 .
+
+wd:Q167844 a ns1:Symptom ;
+    rdfs:label "conjunctivitis" .
+
+wd:Q177190 a ns1:Cause,
+        ns1:Symptom ;
+    rdfs:label "sleep disorder" .
+
+wd:Q1869874 a ns1:Cause,
+        ns1:Symptom ;
+    rdfs:label "insomnia" .
+
+wd:Q209583 a ns1:Symptom ;
+    rdfs:label "tachycardia" .
+
+wd:Q24238356 a ns1:Cause ;
+    rdfs:label "unknown" .
+
+wd:Q254327 a ns1:Symptom ;
+    rdfs:label "anorexia" .
+
+wd:Q281289 a ns1:Symptom ;
+    rdfs:label "photophobia" .
+
+wd:Q474959 a ns1:Symptom ;
+    rdfs:label "myalgia" .
+
+wd:Q540571 a ns1:Cause,
+        ns1:Disease ;
+    rdfs:label "fibromyalgia" ;
+    ns1:hasCause wd:Q24238356 ;
+    ns1:hasSymptom wd:Q154430,
+        wd:Q177190,
+        wd:Q1888634,
+        wd:Q4340209,
+        wd:Q58491385,
+        wd:Q9690 .
+
+wd:Q5445 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "anemia" .
+
+wd:Q647099 a ns1:Symptom ;
+    rdfs:label "hemoptysis" .
+
+wd:Q683498 a ns1:Symptom ;
+    rdfs:label "arthralgia" .
+
+wd:Q718113 a ns1:Symptom ;
+    rdfs:label "weight loss" .
+
+wd:Q757838 a ns1:Symptom ;
+    rdfs:label "keratitis" .
+
+wd:Q81938 a ns1:Symptom ;
+    rdfs:label "pain" .
+
+wd:Q8277 a ns1:Cause,
+        ns1:Disease ;
+    rdfs:label "multiple sclerosis" ;
+    ns1:hasSymptom wd:Q58490835 .
+
+wd:Q19000661 a ns1:Disease ;
+    rdfs:label "congestive heart failure" ;
+    ns1:hasSymptom wd:Q181754 .
+
+wd:Q220570 a ns1:Disease ;
+    rdfs:label "pulmonary embolism" ;
+    ns1:hasSymptom wd:Q5646341,
+        wd:Q7987424 .
+
+wd:Q653197 a ns1:Symptom ;
+    rdfs:label "rash" .
+
+wd:Q693058 a ns1:Symptom ;
+    rdfs:label "chest pain" .
+
+wd:Q11085 a ns1:Cause,
+        ns1:Disease ;
+    rdfs:label "Parkinson's disease" ;
+    ns1:hasSymptom wd:Q1036662,
+        wd:Q117060,
+        wd:Q223907,
+        wd:Q827017 .
+
+wd:Q154869 a ns1:Disease ;
+    rdfs:label "hepatitis C" ;
+    ns1:hasCause wd:Q708693 ;
+    ns1:hasSymptom wd:Q1035226,
+        wd:Q12078,
+        wd:Q124604,
+        wd:Q127076,
+        wd:Q131742,
+        wd:Q133244,
+        wd:Q147778,
+        wd:Q183425,
+        wd:Q186889,
+        wd:Q193889,
+        wd:Q254327,
+        wd:Q683498,
+        wd:Q9690 .
+
+wd:Q180762 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "angina pectoris" .
+
+wd:Q40878 a ns1:Symptom ;
+    rdfs:label "diarrhea" .
+
+wd:Q166231 a ns1:Cause ;
+    rdfs:label "infection" .
+
+wd:Q188008 a ns1:Symptom ;
+    rdfs:label "dyspnea" .
+
+wd:Q190805 a ns1:Disease ;
+    rdfs:label "heart disease" ;
+    ns1:hasSymptom wd:Q152234,
+        wd:Q180007,
+        wd:Q180762,
+        wd:Q188008,
+        wd:Q189331,
+        wd:Q193889,
+        wd:Q209583,
+        wd:Q3540864,
+        wd:Q41861,
+        wd:Q693058 .
+
+wd:Q2260058 a ns1:Symptom ;
+    rdfs:label "chills" .
+
+wd:Q86 a ns1:Symptom ;
+    rdfs:label "headache" .
+
+wd:Q127076 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "vomiting" ;
+    ns1:hasCause wd:Q121041,
+        wd:Q133823,
+        wd:Q164778,
+        wd:Q172941,
+        wd:Q943897,
+        wd:Q974135 .
+
+wd:Q9690 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "fatigue" ;
+    ns1:hasCause wd:Q12167,
+        wd:Q12206,
+        wd:Q1485,
+        wd:Q177190,
+        wd:Q1869874,
+        wd:Q209733,
+        wd:Q213600,
+        wd:Q24238356,
+        wd:Q327988,
+        wd:Q3500368,
+        wd:Q42844,
+        wd:Q540571,
+        wd:Q8277,
+        wd:Q936549,
+        wd:Q96199399 .
+
+wd:Q35805 a ns1:Symptom ;
+    rdfs:label "cough" .
+
+wd:Q183425 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "abdominal pain" .
+
+wd:Q186889 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "nausea" .
+
+wd:Q38933 a ns1:Symptom ;
+    rdfs:label "fever" .
+
+wd:Q41861 a ns1:Disease,
+        ns1:Symptom ;
+    rdfs:label "arterial hypertension" .
+
