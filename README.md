@@ -14,3 +14,5 @@ This repository comprises code to run our system designed for the third assignme
 **The system works as follows:**
 
 Given a Knowledge Graph (KG) and two input questions, formulate a SPARQL queries to answer both of them, perform multi-hop reasoning on the KG to identify links or relations between both results and write a short paragraph with context around it.
+
+The folder __other__ comprises other implementations which we not used in the final deliverable.
